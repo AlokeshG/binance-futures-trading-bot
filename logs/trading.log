@@ -1,0 +1,9 @@
+2026-07-14 14:09:37,978 - INFO - Trading Bot Started
+2026-07-14 15:53:42,326 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1784024622326}
+2026-07-14 15:53:42,863 | INFO | Response: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-07-14 15:57:58,611 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1784024878611}
+2026-07-14 15:57:59,082 | INFO | Response: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-07-14 16:11:40,666 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1784025700666}
+2026-07-14 16:11:41,358 | INFO | Response: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2026-07-14 16:12:01,195 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'timestamp': 1784025721195, 'price': 120000.0, 'timeInForce': 'GTC'}
+2026-07-14 16:12:01,650 | INFO | Response: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
